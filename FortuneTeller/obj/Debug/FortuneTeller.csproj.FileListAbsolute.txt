@@ -1,0 +1,6 @@
+C:\Projects\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.exe.config
+C:\Projects\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.exe
+C:\Projects\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.pdb
+C:\Projects\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.csprojResolveAssemblyReference.cache
+C:\Projects\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.exe
+C:\Projects\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.pdb
